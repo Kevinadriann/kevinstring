@@ -29,12 +29,12 @@ By @Kyuraonly
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")],
-        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ​", url="https://t.me/kyuraonly")],
+        [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ​", url="https://t.me/sylucaz")],
         [
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ​​", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/KyuraProjects")],
+        [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/gabutnyaasy")],
     ]
 
     # Help Message
@@ -53,9 +53,9 @@ By @Kyuraonly
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @KyuraStringBot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @sylucaz
 
-Group Support : [Gabung](https://t.me/kyurasupport)
+Group Support : [Gabung](https://t.me/margaace)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
